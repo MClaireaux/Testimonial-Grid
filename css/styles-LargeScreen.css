@@ -1,0 +1,195 @@
+body{
+background-color: hsl(210, 46%, 95%);
+width: 100%;
+font-family: 'Barlow Semi Condensed', sans-serif;
+height:100%;
+text-align: center;
+}
+
+.main{
+  position:relative;
+  display:inline-block;
+  width:1440;
+  height:575px;
+  margin:10% auto 12% auto;
+}
+
+
+p{
+  font-size: 13px;
+}
+
+h1{
+  font-size: 15px;
+  margin-top:0;
+  margin-bottom:5px;
+}
+
+h2{
+  font-weight: 600;
+  font-size: 18px;
+}
+.sub{
+  margin-bottom: 0;
+margin-top: 5px;
+}
+
+.left{
+  float:left;
+  width: 814px;
+  margin-left: 0;
+  margin-right:12px;
+  margin-bottom: 12px;
+  height:590px;
+}
+
+.right{
+  float:left;
+  width: 260px;
+  margin-left:12px;
+  margin-right: 0;
+  height:590px;
+  margin-top: 12px;
+
+}
+
+.card{
+  border-radius: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top:30px;
+  padding-bottom: 30px;
+  float:left;
+  text-align: left;
+}
+
+.profile-text{
+  display:inline-block;
+}
+
+.quote{
+  position: absolute;
+top:0;
+right:10%;
+}
+
+
+.Daniel{
+  background-color: hsl(263, 55%, 52%);
+width:470px;
+height:227px;
+margin-left:0;
+margin-right:12px;
+margin-bottom: 12px;
+position:relative;
+}
+.Daniel-img{
+  border-color: hsl(0, 0%, 100%, 0.5);
+}
+.Daniel h1{
+  color:hsl(0, 0%, 100%);
+}
+.Daniel h2{
+  color:hsl(0, 0%, 100%);
+}
+.Daniel p{
+  color:hsl(0, 0%, 100%, 0.7);
+}
+.Daniel .testimony{
+  position:relative;
+}
+
+
+.Jonathan{
+  background-color: hsl(217, 19%, 35%);
+width:200px;
+margin-left:12px;
+margin-right:0;
+height:227px;
+margin-bottom: 12px;
+
+}
+.Jonathan-img{
+  border-color: hsl(0, 0%, 100%,0.5);
+  background-color: hsl(0, 0%, 100%,0.5);
+}
+.Jonathan h1{
+  color:hsl(0, 0%, 100%);
+}
+.Jonathan h2{
+  color:hsl(0, 0%, 100%);
+}
+.Jonathan p{
+  color:hsl(0, 0%, 100%);
+}
+
+
+
+.testimony{
+  clear:left;
+
+}
+
+.Jeanette {
+  background-color: hsl(0, 0%, 100%);
+  width:200px;
+  height:215px;
+margin-top:12px;
+margin-left:0;
+margin-right:12px;
+
+}
+.Jeanette-img{
+  border-color: hsl(0, 0%, 100%,0.5);
+}
+
+
+.Patrick {
+  background-color: hsl(219, 29%, 14%);
+  width:470px;
+  margin-top:12px;
+  height:215px;
+  margin-left:12px;
+  margin-right:0;
+
+}
+.Patrick-img{
+  border-color: hsl(263, 55%, 52%);
+}
+.Patrick h1{
+  color:hsl(0, 0%, 100%);
+}
+.Patrick h2{
+  color:hsl(0, 0%, 100%);
+}
+.Patrick p{
+  color:hsl(0, 0%, 100%);
+}
+
+.Kira {
+  background-color: hsl(0, 0%, 100%);
+width:200px;
+margin-left: 0;
+margin-right:0;
+height:526px;
+}
+.Kira-img{
+  border-color: hsl(0, 0%, 100%,0.5);
+}
+
+
+.profile-img{
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 2px;
+  width:50%;
+}
+
+.attribution{
+  width: 100%;
+  text-align: center;
+  margin-bottom:0;
+  clear:both;
+  font-family: serif;
+  font-size: 12px;
+}
